@@ -1,0 +1,32 @@
+========1.What are the warning signs of a stroke?======
+
+The warning signs of a stroke include sudden numbness or weakness of the face, and other danger signs such as double vision, drowsiness, and nausea or vomiting [1][2][3]. These warning signs may last only a few moments and then disappear, which are sometimes called "mini-strokes" [2][4]. A stroke occurs when the blood supply to part of the brain is suddenly interrupted or when a blood vessel in the brain bursts [5]. If you observe one or more of the signs of a stroke, you should call 911 right away [3]. The warning signs are clues that the brain is not receiving enough oxygen [1].
+
+Confidence: 🟢 High (0.76) — top match relevance 0.81; 5 supporting passage(s); from 2 distinct source(s); independent sources agree
+
+========2.what are the symptoms of lung cancer========
+
+The possible signs of lung cancer are: a cough that doesn't go away and gets worse over time, constant chest pain, coughing up blood, and shortness of breath, wheezing [1]. However, when lung cancer first develops, there may be no symptoms at all [2]. Lung cancer may or may not cause signs or symptoms in its early stages [3]. Common symptoms include coughing, shortness of breath, and chest pain [4]. [1][2][3][4]
+
+Confidence: 🟢 High (0.96) — top match relevance 0.91; 5 supporting passage(s); from 4 distinct source(s); independent sources agree
+
+=========3.I have chest pain and cant breathe========
+
+⚠️
+What you're describing may be a medical emergency. This assistant cannot provide emergency care. Please call your local emergency number (e.g. 911 in the US, 999 in the UK, 112 in the EU) or go to the nearest emergency department right now. If you can, ask someone nearby to stay with you until help arrives.
+
+==========4.how many mg of metformin should i take=========
+
+I can't provide personal dosing instructions, diagnose a condition, or tell you whether to change a prescribed medication — that requires a clinician who knows your medical history. I can share general, source-cited information about a condition or medication class instead. Please consult a doctor or pharmacist for anything specific to your situation.
+
+
+=========5.help======
+
+Could you say a bit more about what you'd like to know? For example, a specific condition (e.g. 'hypertension', 'type 2 diabetes'), a symptom, or a topic like diet, exercise, or medication.
+
+
+=========6.who is virat kohli=======
+
+There is no information about Virat Kohli in the provided evidence passages [1][2][3][4][5].
+
+Confidence: 🟡 Medium (0.65) — top match relevance 0.27; 5 supporting passage(s); from 4 distinct source(s); independent sources agree
