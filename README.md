@@ -22,7 +22,7 @@ This repository contains the projects completed as part of the **Spider Inductio
 
 **Healthcare Information Assistant (RAG)**
 - Developed a Retrieval-Augmented Generation (RAG) based healthcare assistant
-- Uses FAISS for document retrieval and Streamlit for the user interface
+- Uses Sentence Transformer embeddings with cosine similarity for document retrieval and Streamlit for the user interface.
 - Provides grounded responses with source citations
 
 ## Tech Stack
