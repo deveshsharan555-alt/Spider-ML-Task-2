@@ -1,19 +1,12 @@
 # --- Core (required) ---
-scikit-learn>=1.3
 numpy>=1.24
+scikit-learn>=1.3
 streamlit>=1.30
 
-# --- Optional: better embeddings & reranking ---
-# pip install sentence-transformers
+# --- Optional: Better semantic embeddings ---
+# Install only if EMBEDDING = "st"
 # sentence-transformers>=2.5
 
-# --- Optional: large-scale ANN vector store ---
-# pip install faiss-cpu
-# faiss-cpu>=1.7
-
-# --- Optional: LLM-phrased grounded generation via Claude API ---
-
-
-# --- Optional: LLM-phrased grounded generation via Groq API (free) ---
-# pip install groq
+# --- Optional: Groq LLM for fluent answers ---
+# Install only if GENERATOR = "groq"
 # groq>=0.11
